@@ -728,7 +728,7 @@ h3 {
     .page2_left{
         width: 100%;
         text-align: start;
-        margin-left: -5px;
+        padding:10px;
     }
 
     .fff{
